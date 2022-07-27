@@ -10,7 +10,7 @@ A landing page for a Crypto based company made using pure HTML and CSS
 ## Time Taken for Completion
 - 3 hours
 
-<!-- ### Checkout the Project here : [digitalmarketingfirm](https://digitalmarketingfirm.netlify app/) -->
+### Checkout the Project here : [investincrypto](https://investincrypto.netlify.app/)
 
 ## Output
 ![output](output.png)
